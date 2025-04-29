@@ -23,5 +23,4 @@ Enjoy exploring this project — feel free to fork, learn, and build on it!
 
 ---
 
-This project was inspired by **Baraa Khatib Salkini's SQL course**. I followed the structure and recreated the project myself to reinforce my understanding of data warehousing using the Medallion Architecture.  
-All queries, explanations, and modifications are my own.
+This project was inspired by **Baraa Khatib Salkini's SQL course**.
